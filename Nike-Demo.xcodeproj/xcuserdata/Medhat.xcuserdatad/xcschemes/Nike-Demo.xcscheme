@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "52E3D20D1E7F0D990064B02E"
-               BuildableName = "Nike+Research.app"
-               BlueprintName = "Nike+Research"
-               ReferencedContainer = "container:Nike+Research.xcodeproj">
+               BuildableName = "Nike-Demo.app"
+               BlueprintName = "Nike-Demo"
+               ReferencedContainer = "container:Nike-Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "52E3D20D1E7F0D990064B02E"
-            BuildableName = "Nike+Research.app"
-            BlueprintName = "Nike+Research"
-            ReferencedContainer = "container:Nike+Research.xcodeproj">
+            BuildableName = "Nike-Demo.app"
+            BlueprintName = "Nike-Demo"
+            ReferencedContainer = "container:Nike-Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "52E3D20D1E7F0D990064B02E"
-            BuildableName = "Nike+Research.app"
-            BlueprintName = "Nike+Research"
-            ReferencedContainer = "container:Nike+Research.xcodeproj">
+            BuildableName = "Nike-Demo.app"
+            BlueprintName = "Nike-Demo"
+            ReferencedContainer = "container:Nike-Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "52E3D20D1E7F0D990064B02E"
-            BuildableName = "Nike+Research.app"
-            BlueprintName = "Nike+Research"
-            ReferencedContainer = "container:Nike+Research.xcodeproj">
+            BuildableName = "Nike-Demo.app"
+            BlueprintName = "Nike-Demo"
+            ReferencedContainer = "container:Nike-Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
